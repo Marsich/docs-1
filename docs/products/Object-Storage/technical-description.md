@@ -43,7 +43,7 @@ In case you are e.g. building up your own polcies you might have the need to spe
 
 Example: `arn:aws:iam::5c37e60c3ee04f1eb116c436b1afadca:user/12345`
 
-### ARN Format for Users of Cutomer (Sub Users)
+### ARN Format for Users of Customer (Sub Users)
 
 `arn:aws:iam::<s3TenantId>:user/<customerId>:<userId>`
 
